@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				415,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Bandu Bandu-Idle"
+		},
+		{
+			"offsets": [
+				414,
+				113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Bandu Bandu-Right"
+		},
+		{
+			"offsets": [
+				425,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Bandu Bandu-Up"
+		},
+		{
+			"offsets": [
+				415,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Bandu Bandu-Left"
+		},
+		{
+			"offsets": [
+				452,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Bandu Bandu-Down"
+		},
+		{
+			"offsets": [
+				415,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "Bandu Bandu-ALT-Idle"
+		},
+		{
+			"offsets": [
+				414,
+				123
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "Bandu Bandu-ALT-Right"
+		},
+		{
+			"offsets": [
+				425,
+				105
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "sinUP-alt",
+			"loop": false,
+			"name": "Bandu Bandu-ALT-Up"
+		},
+		{
+			"offsets": [
+				453,
+				91
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "Bandu Bandu-ALT-Down"
+		},
+		{
+			"offsets": [
+				415,
+				113
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "Bandu Bandu-ALT-Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bandu",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Bandu-Icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		157
+	],
+	"camera_position": [
+		-460,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
