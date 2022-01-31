@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 1,
+		"stage": "exampleStagee",
+		"player1": "expungedbf",
+		"player2": "gf-pixel",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				209200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "NOT-HERE"
+	}
+}
